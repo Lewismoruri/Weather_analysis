@@ -1,0 +1,11 @@
+city,temperature,humidity,description,timestamp
+Nairobi,20.93,52,broken clouds,2025-08-20T14:05:25.039307+00:00
+Kisumu,25.89,47,broken clouds,2025-08-20T14:05:25.500017+00:00
+Mombasa,27.23,69,broken clouds,2025-08-20T14:05:26.015033+00:00
+Eldoret,18.05,63,broken clouds,2025-08-20T14:05:26.389262+00:00
+Nakuru,18.77,70,broken clouds,2025-08-20T14:05:26.792595+00:00
+Nairobi,20.93,52,broken clouds,2025-08-20T14:10:32.254025+00:00
+Kisumu,24.58,58,scattered clouds,2025-08-20T14:10:33.329059+00:00
+Mombasa,27.23,69,broken clouds,2025-08-20T14:10:33.781771+00:00
+Eldoret,17.57,77,broken clouds,2025-08-20T14:10:34.290656+00:00
+Nakuru,18.77,70,broken clouds,2025-08-20T14:10:34.693648+00:00

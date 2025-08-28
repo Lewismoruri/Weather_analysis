@@ -1,0 +1,72 @@
+[
+    {
+        "city": "Nairobi",
+        "temperature": 20.93,
+        "humidity": 52,
+        "description": "broken clouds",
+        "timestamp": "2025-08-20T14:05:25.039307+00:00"
+    },
+    {
+        "city": "Kisumu",
+        "temperature": 25.89,
+        "humidity": 47,
+        "description": "broken clouds",
+        "timestamp": "2025-08-20T14:05:25.500017+00:00"
+    },
+    {
+        "city": "Mombasa",
+        "temperature": 27.23,
+        "humidity": 69,
+        "description": "broken clouds",
+        "timestamp": "2025-08-20T14:05:26.015033+00:00"
+    },
+    {
+        "city": "Eldoret",
+        "temperature": 18.05,
+        "humidity": 63,
+        "description": "broken clouds",
+        "timestamp": "2025-08-20T14:05:26.389262+00:00"
+    },
+    {
+        "city": "Nakuru",
+        "temperature": 18.77,
+        "humidity": 70,
+        "description": "broken clouds",
+        "timestamp": "2025-08-20T14:05:26.792595+00:00"
+    },
+    {
+        "city": "Nairobi",
+        "temperature": 20.93,
+        "humidity": 52,
+        "description": "broken clouds",
+        "timestamp": "2025-08-20T14:10:32.254025+00:00"
+    },
+    {
+        "city": "Kisumu",
+        "temperature": 24.58,
+        "humidity": 58,
+        "description": "scattered clouds",
+        "timestamp": "2025-08-20T14:10:33.329059+00:00"
+    },
+    {
+        "city": "Mombasa",
+        "temperature": 27.23,
+        "humidity": 69,
+        "description": "broken clouds",
+        "timestamp": "2025-08-20T14:10:33.781771+00:00"
+    },
+    {
+        "city": "Eldoret",
+        "temperature": 17.57,
+        "humidity": 77,
+        "description": "broken clouds",
+        "timestamp": "2025-08-20T14:10:34.290656+00:00"
+    },
+    {
+        "city": "Nakuru",
+        "temperature": 18.77,
+        "humidity": 70,
+        "description": "broken clouds",
+        "timestamp": "2025-08-20T14:10:34.693648+00:00"
+    }
+]
