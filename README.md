@@ -1,5 +1,3 @@
-Weather Analysis Data Engineering Project 🌦️
-
 📌 Overview
 
 This project is a data engineering pipeline for weather analysis.
